@@ -1,0 +1,1770 @@
+var lidah = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Polygon",
+        "name": "Graha Unesa",
+        "category": "default",
+        "id": "c8a20a6f-4a3a-456d-8e9a-271fa53aff1d"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.665756,
+              -7.299024
+            ],
+            [
+              112.666067,
+              -7.299024
+            ],
+            [
+              112.666281,
+              -7.298971
+            ],
+            [
+              112.666453,
+              -7.298854
+            ],
+            [
+              112.666539,
+              -7.298694
+            ],
+            [
+              112.666549,
+              -7.298482
+            ],
+            [
+              112.666324,
+              -7.298418
+            ],
+            [
+              112.666088,
+              -7.298418
+            ],
+            [
+              112.665884,
+              -7.298567
+            ],
+            [
+              112.665809,
+              -7.29879
+            ],
+            [
+              112.665756,
+              -7.299024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Polygon",
+        "name": "GOR Unesa",
+        "category": "default",
+        "id": "27a41fa5-803f-4656-bca6-78460257fb73"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.668209,
+              -7.298612
+            ],
+            [
+              112.668198,
+              -7.299096
+            ],
+            [
+              112.669008,
+              -7.299107
+            ],
+            [
+              112.669019,
+              -7.298607
+            ],
+            [
+              112.668209,
+              -7.298612
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Polygon",
+        "name": "Gelangang Pemuda",
+        "category": "default",
+        "id": "909f33bf-2d89-441a-89ef-ef7ec729aac5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.66905426979064,
+              -7.298697155026219
+            ],
+            [
+              112.66905426979064,
+              -7.299072281979962
+            ],
+            [
+              112.669432,
+              -7.299048
+            ],
+            [
+              112.6694405078888,
+              -7.298694494550241
+            ],
+            [
+              112.66905426979064,
+              -7.298697155026219
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Polygon",
+        "name": "Hotel Unesa",
+        "category": "default",
+        "id": "8c04af52-a07c-407f-9ed3-f91ec5e9106c"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.674778,
+              -7.298941
+            ],
+            [
+              112.67466,
+              -7.299031
+            ],
+            [
+              112.674601,
+              -7.299212
+            ],
+            [
+              112.674649,
+              -7.299356
+            ],
+            [
+              112.674746,
+              -7.299451
+            ],
+            [
+              112.674875,
+              -7.299393
+            ],
+            [
+              112.674939,
+              -7.299297
+            ],
+            [
+              112.674928,
+              -7.2991
+            ],
+            [
+              112.674778,
+              -7.298941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Polygon",
+        "name": "Kolam Renang",
+        "category": "default",
+        "id": "376cabd2-d581-4676-86f3-3ad0450bea70"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.674048,
+              -7.299537
+            ],
+            [
+              112.67401,
+              -7.299665
+            ],
+            [
+              112.674348,
+              -7.299745
+            ],
+            [
+              112.67438,
+              -7.299612
+            ],
+            [
+              112.674048,
+              -7.299537
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Polygon",
+        "name": "Gym Center",
+        "category": "default",
+        "id": "d1fd5e91-c297-40df-b9e5-b81a1cf601c9"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.673715,
+              -7.299692
+            ],
+            [
+              112.673672,
+              -7.299894
+            ],
+            [
+              112.673983,
+              -7.299984
+            ],
+            [
+              112.674026,
+              -7.299772
+            ],
+            [
+              112.673715,
+              -7.299692
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung Rektorat",
+        "category": "default",
+        "id": "2ceec216-e66d-409b-b828-4388642f283f"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.673083,
+              -7.300237
+            ],
+            [
+              112.672814,
+              -7.300338
+            ],
+            [
+              112.672841,
+              -7.300402
+            ],
+            [
+              112.672702,
+              -7.300445
+            ],
+            [
+              112.672643,
+              -7.300604
+            ],
+            [
+              112.672616,
+              -7.300657
+            ],
+            [
+              112.672573,
+              -7.300641
+            ],
+            [
+              112.67253,
+              -7.30087
+            ],
+            [
+              112.672589,
+              -7.30087
+            ],
+            [
+              112.672573,
+              -7.300923
+            ],
+            [
+              112.672712,
+              -7.301083
+            ],
+            [
+              112.672675,
+              -7.301125
+            ],
+            [
+              112.672857,
+              -7.301338
+            ],
+            [
+              112.673029,
+              -7.301216
+            ],
+            [
+              112.672852,
+              -7.300976
+            ],
+            [
+              112.672809,
+              -7.300998
+            ],
+            [
+              112.672739,
+              -7.300886
+            ],
+            [
+              112.672804,
+              -7.300891
+            ],
+            [
+              112.67283,
+              -7.300684
+            ],
+            [
+              112.672766,
+              -7.300673
+            ],
+            [
+              112.672755,
+              -7.300578
+            ],
+            [
+              112.672879,
+              -7.300503
+            ],
+            [
+              112.672916,
+              -7.300551
+            ],
+            [
+              112.673174,
+              -7.300439
+            ],
+            [
+              112.673083,
+              -7.300237
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Polygon",
+        "name": "Sawunggaling",
+        "category": "default",
+        "id": "b73f0ab3-396d-4b69-b604-e4184ff1b8c0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.669785,
+              -7.299935
+            ],
+            [
+              112.669694,
+              -7.300265
+            ],
+            [
+              112.670321,
+              -7.300414
+            ],
+            [
+              112.670402,
+              -7.300095
+            ],
+            [
+              112.669785,
+              -7.299935
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Polygon",
+        "name": "Pos Satpam",
+        "category": "default",
+        "id": "172521cb-f613-4faa-b692-fb4c8008220f"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.669448,
+              -7.300503
+            ],
+            [
+              112.669411,
+              -7.300663
+            ],
+            [
+              112.669571,
+              -7.300695
+            ],
+            [
+              112.669604,
+              -7.300541
+            ],
+            [
+              112.669448,
+              -7.300503
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "FIK",
+        "category": "default",
+        "id": "2ab41c63-8131-47a7-a1f3-f34b38dd7c50"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.667829,
+              -7.299076
+            ],
+            [
+              112.667604,
+              -7.300055
+            ],
+            [
+              112.667904,
+              -7.300358
+            ],
+            [
+              112.668939,
+              -7.300672
+            ],
+            [
+              112.669266,
+              -7.300571
+            ],
+            [
+              112.669567,
+              -7.299374
+            ],
+            [
+              112.667829,
+              -7.299076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung U3",
+        "category": "default",
+        "id": "88ee2e87-1774-4f7a-a8f9-3b896d270a86"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.668514,
+              -7.299335
+            ],
+            [
+              112.668449,
+              -7.299606
+            ],
+            [
+              112.668986,
+              -7.299728
+            ],
+            [
+              112.66905,
+              -7.299468
+            ],
+            [
+              112.668514,
+              -7.299335
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung U1",
+        "category": "default",
+        "id": "df64cc4c-12b7-49fe-bd52-7e10ba917beb"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.669007,
+              -7.299638
+            ],
+            [
+              112.668857,
+              -7.300149
+            ],
+            [
+              112.669168,
+              -7.300228
+            ],
+            [
+              112.669195,
+              -7.300111
+            ],
+            [
+              112.669329,
+              -7.300138
+            ],
+            [
+              112.669393,
+              -7.299915
+            ],
+            [
+              112.669275,
+              -7.299872
+            ],
+            [
+              112.669324,
+              -7.299723
+            ],
+            [
+              112.669007,
+              -7.299638
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung U2",
+        "category": "default",
+        "id": "7d3f0f0c-510c-4e70-8034-98c98b4e5a2c"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.668374,
+              -7.299935
+            ],
+            [
+              112.668294,
+              -7.300201
+            ],
+            [
+              112.668814,
+              -7.300318
+            ],
+            [
+              112.668878,
+              -7.300063
+            ],
+            [
+              112.668374,
+              -7.299935
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "PPG",
+        "category": "default",
+        "id": "d7508d54-a59b-419e-b804-35b8f546a58b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.672019,
+              -7.302085
+            ],
+            [
+              112.671982,
+              -7.302478
+            ],
+            [
+              112.672706,
+              -7.302499
+            ],
+            [
+              112.672722,
+              -7.302106
+            ],
+            [
+              112.672577,
+              -7.302106
+            ],
+            [
+              112.672577,
+              -7.30201
+            ],
+            [
+              112.672486,
+              -7.302015
+            ],
+            [
+              112.67247,
+              -7.301904
+            ],
+            [
+              112.672336,
+              -7.301904
+            ],
+            [
+              112.672331,
+              -7.30201
+            ],
+            [
+              112.672234,
+              -7.30201
+            ],
+            [
+              112.672213,
+              -7.302074
+            ],
+            [
+              112.672019,
+              -7.302085
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "CPD",
+        "category": "default",
+        "id": "49de7bcf-1326-4b42-a4d9-5730e3d9fe8a"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.67307,
+              -7.302079
+            ],
+            [
+              112.673011,
+              -7.30293
+            ],
+            [
+              112.673548,
+              -7.302973
+            ],
+            [
+              112.673601,
+              -7.302127
+            ],
+            [
+              112.67307,
+              -7.302079
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Polygon",
+        "name": "Masjid Unesa",
+        "category": "default",
+        "id": "7b07d020-ad78-4a13-ba3c-2745d76a4094"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.672986,
+              -7.303279
+            ],
+            [
+              112.672852,
+              -7.303545
+            ],
+            [
+              112.673078,
+              -7.303646
+            ],
+            [
+              112.673196,
+              -7.30337
+            ],
+            [
+              112.672986,
+              -7.303279
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Polygon",
+        "name": "Asrama Putra",
+        "category": "default",
+        "id": "804e926d-79dd-4977-bc52-0fcbc5097cb7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.673027,
+              -7.303859
+            ],
+            [
+              112.672974,
+              -7.304045
+            ],
+            [
+              112.673623,
+              -7.304247
+            ],
+            [
+              112.673665,
+              -7.304056
+            ],
+            [
+              112.673027,
+              -7.303859
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Polygon",
+        "name": "Asrama Putri",
+        "category": "default",
+        "id": "cb142e93-785c-4b12-be5e-63f5420659b8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.672882,
+              -7.304353
+            ],
+            [
+              112.672829,
+              -7.304561
+            ],
+            [
+              112.673397,
+              -7.304731
+            ],
+            [
+              112.673456,
+              -7.304555
+            ],
+            [
+              112.672882,
+              -7.304353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "FIP",
+        "category": "default",
+        "id": "cb142e93-785c-4b12-be5e-63f5420669b8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.67049193382263,
+              -7.30120065590301
+            ],
+            [
+              112.67027735710144,
+              -7.302722437047427
+            ],
+            [
+              112.67175257205962,
+              -7.30287142233566
+            ],
+            [
+              112.6719081401825,
+              -7.30155715754472
+            ],
+            [
+              112.67049193382263,
+              -7.30120065590301
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung O5",
+        "category": "default",
+        "id": "3e2f03b5-4cc4-43ed-9094-61a7ad7ef225"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.670567,
+              -7.301369
+            ],
+            [
+              112.670519,
+              -7.301603
+            ],
+            [
+              112.670433,
+              -7.301587
+            ],
+            [
+              112.670417,
+              -7.301704
+            ],
+            [
+              112.670497,
+              -7.301714
+            ],
+            [
+              112.670492,
+              -7.301757
+            ],
+            [
+              112.67069,
+              -7.301789
+            ],
+            [
+              112.670771,
+              -7.301406
+            ],
+            [
+              112.670567,
+              -7.301369
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung O1",
+        "category": "default",
+        "id": "b85da760-c5b2-4f57-ac68-68eeba631b33"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.670776,
+              -7.301407
+            ],
+            [
+              112.67069,
+              -7.301816
+            ],
+            [
+              112.670948,
+              -7.301864
+            ],
+            [
+              112.671034,
+              -7.301465
+            ],
+            [
+              112.670776,
+              -7.301407
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Polygon",
+        "name": "Unnamed Layer",
+        "category": "default",
+        "id": "13376d53-a00b-4c98-9429-622daa5d039d"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.671006,
+              -7.301601
+            ],
+            [
+              112.670963,
+              -7.301776
+            ],
+            [
+              112.671209,
+              -7.301829
+            ],
+            [
+              112.671252,
+              -7.301659
+            ],
+            [
+              112.671006,
+              -7.301601
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Polygon",
+        "name": "Unnamed Layer",
+        "category": "default",
+        "id": "dfddcf2e-7da5-42d3-8995-61911df44465"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.671333,
+              -7.301691
+            ],
+            [
+              112.671295,
+              -7.301851
+            ],
+            [
+              112.671451,
+              -7.301888
+            ],
+            [
+              112.671494,
+              -7.301734
+            ],
+            [
+              112.671333,
+              -7.301691
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung O2",
+        "category": "default",
+        "id": "740616e5-d4a7-4eb2-a6fe-d5e9d6275920"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.671522,
+              -7.301576
+            ],
+            [
+              112.671436,
+              -7.301991
+            ],
+            [
+              112.671672,
+              -7.30205
+            ],
+            [
+              112.671752,
+              -7.30164
+            ],
+            [
+              112.671522,
+              -7.301576
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung O4",
+        "category": "default",
+        "id": "cea10bdf-f165-4fb5-8c6c-b253eae16231"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.670599,
+              -7.301933
+            ],
+            [
+              112.670529,
+              -7.302161
+            ],
+            [
+              112.671071,
+              -7.302273
+            ],
+            [
+              112.671114,
+              -7.302044
+            ],
+            [
+              112.670599,
+              -7.301933
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung O3",
+        "category": "default",
+        "id": "9d7ff2ff-b99a-4254-a482-cdd38ded755c"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.671232,
+              -7.302087
+            ],
+            [
+              112.671178,
+              -7.302299
+            ],
+            [
+              112.671586,
+              -7.302406
+            ],
+            [
+              112.67164,
+              -7.302182
+            ],
+            [
+              112.671232,
+              -7.302087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Pusat Layanan Autis",
+        "category": "default",
+        "id": "9bed4d9d-24a8-4cea-826c-6203bd95924a"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.6707,
+              -7.302452
+            ],
+            [
+              112.670657,
+              -7.30267
+            ],
+            [
+              112.670995,
+              -7.30268
+            ],
+            [
+              112.671011,
+              -7.302462
+            ],
+            [
+              112.670915,
+              -7.302441
+            ],
+            [
+              112.670915,
+              -7.302526
+            ],
+            [
+              112.670797,
+              -7.302526
+            ],
+            [
+              112.670818,
+              -7.302452
+            ],
+            [
+              112.6707,
+              -7.302452
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung O6",
+        "category": "default",
+        "id": "ebae56a6-8c21-458d-a9d1-5f51b2de3b3c"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.671134,
+              -7.30251
+            ],
+            [
+              112.671118,
+              -7.302675
+            ],
+            [
+              112.67122,
+              -7.302675
+            ],
+            [
+              112.671226,
+              -7.302755
+            ],
+            [
+              112.671719,
+              -7.302776
+            ],
+            [
+              112.67173,
+              -7.302595
+            ],
+            [
+              112.671601,
+              -7.302595
+            ],
+            [
+              112.67159,
+              -7.302542
+            ],
+            [
+              112.671483,
+              -7.302537
+            ],
+            [
+              112.671478,
+              -7.302499
+            ],
+            [
+              112.671134,
+              -7.30251
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "FBS",
+        "category": "default",
+        "id": "2b687b1a-3b8f-4d36-a68d-aa72a1e7bc19"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.670142,
+              -7.301111
+            ],
+            [
+              112.668254,
+              -7.300611
+            ],
+            [
+              112.668018,
+              -7.30168
+            ],
+            [
+              112.66827,
+              -7.302637
+            ],
+            [
+              112.669949,
+              -7.302701
+            ],
+            [
+              112.670142,
+              -7.301111
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung T8",
+        "category": "default",
+        "id": "5191d35a-5121-4b0f-ac75-eb8a9dd166fc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.669473,
+              -7.301038
+            ],
+            [
+              112.66943,
+              -7.301198
+            ],
+            [
+              112.669977,
+              -7.301325
+            ],
+            [
+              112.670004,
+              -7.301166
+            ],
+            [
+              112.669473,
+              -7.301038
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung T2",
+        "category": "default",
+        "id": "68f837dd-7bdd-4529-afaa-c976ed322ed1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.669044,
+              -7.301011
+            ],
+            [
+              112.668947,
+              -7.30141
+            ],
+            [
+              112.669248,
+              -7.30149
+            ],
+            [
+              112.669355,
+              -7.301081
+            ],
+            [
+              112.669044,
+              -7.301011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung T4",
+        "category": "default",
+        "id": "9e3de8ae-f51b-4b36-9f18-c35cadf9ab60"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.669419,
+              -7.301325
+            ],
+            [
+              112.669366,
+              -7.30149
+            ],
+            [
+              112.669891,
+              -7.301612
+            ],
+            [
+              112.669934,
+              -7.301448
+            ],
+            [
+              112.669419,
+              -7.301325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung T3",
+        "category": "default",
+        "id": "50f99a99-8086-4734-9071-30ebb271da87"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.669355,
+              -7.301628
+            ],
+            [
+              112.669269,
+              -7.301878
+            ],
+            [
+              112.669805,
+              -7.302011
+            ],
+            [
+              112.66987,
+              -7.301767
+            ],
+            [
+              112.669355,
+              -7.301628
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung T6",
+        "category": "default",
+        "id": "819b134c-5991-40a3-b891-8aee689cc748"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.668943,
+              -7.301707
+            ],
+            [
+              112.668895,
+              -7.301872
+            ],
+            [
+              112.66911,
+              -7.30192
+            ],
+            [
+              112.669142,
+              -7.301766
+            ],
+            [
+              112.668943,
+              -7.301707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung T7",
+        "category": "default",
+        "id": "6212fd9f-f32d-44d4-a33c-73a3d896dd8b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.668772,
+              -7.301942
+            ],
+            [
+              112.668745,
+              -7.302064
+            ],
+            [
+              112.66918,
+              -7.302165
+            ],
+            [
+              112.669196,
+              -7.302053
+            ],
+            [
+              112.668772,
+              -7.301942
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung T1",
+        "category": "default",
+        "id": "71859014-438c-44ef-b0c9-71c992ed0eda"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.668314,
+              -7.301394
+            ],
+            [
+              112.668266,
+              -7.301634
+            ],
+            [
+              112.66877,
+              -7.301761
+            ],
+            [
+              112.668808,
+              -7.301522
+            ],
+            [
+              112.668314,
+              -7.301394
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "Gedung T11",
+        "category": "default",
+        "id": "8fd69c9c-3dcb-4347-9155-9fddc9013c5a"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.668239,
+              -7.302096
+            ],
+            [
+              112.668416,
+              -7.302601
+            ],
+            [
+              112.668572,
+              -7.302548
+            ],
+            [
+              112.668389,
+              -7.302043
+            ],
+            [
+              112.668239,
+              -7.302096
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Polygon",
+        "name": "Gedung Tennis Indoor",
+        "category": "default",
+        "id": "85426d4b-142b-4522-8442-3b66d73713c3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.66742,
+              -7.302262
+            ],
+            [
+              112.66735,
+              -7.302656
+            ],
+            [
+              112.667694,
+              -7.302672
+            ],
+            [
+              112.667672,
+              -7.302326
+            ],
+            [
+              112.66742,
+              -7.302262
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "shape": "Polygon",
+        "name": "GOR Bima",
+        "category": "default",
+        "id": "5aa142bf-a108-4005-bf44-b74548019803"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              112.66559,
+              -7.301928
+            ],
+            [
+              112.665488,
+              -7.302284
+            ],
+            [
+              112.666067,
+              -7.302417
+            ],
+            [
+              112.666153,
+              -7.302061
+            ],
+            [
+              112.66559,
+              -7.301928
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
